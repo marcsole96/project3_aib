@@ -1,0 +1,1 @@
+The fastafiles can be found in 'BRCA1_200_alignment_fasta.zip" (testsequences) and brca1-full-alignment-fasta (full sequences)
